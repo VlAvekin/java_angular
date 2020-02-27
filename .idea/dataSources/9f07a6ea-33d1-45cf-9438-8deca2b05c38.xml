@@ -912,7 +912,7 @@
       <Charset>utf8mb4</Charset>
       <DefaultForCharset>0</DefaultForCharset>
     </collation>
-    <table id="229" parent="2" name="coordinat"/>
+    <table id="229" parent="2" name="coordinate"/>
     <table id="230" parent="2" name="figure"/>
     <table id="231" parent="2" name="hibernate_sequence"/>
     <column id="232" parent="229" name="id">

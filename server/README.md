@@ -9,3 +9,4 @@ Database: MySQL, JPA, Hibernate;
 WEB: Bootstrap, HTML, CSS;
 
 Test: JUnit.
+
